@@ -1,0 +1,11 @@
+PaymentID,OrderID,PaymentType,Amount,PaymentDate,Status
+1,1,"Credit Card",85.97,2024-04-01,"Completed"
+2,2,"PayPal",699.99,2024-04-01,"Completed"
+3,3,"Credit Card",109.98,2024-04-02,"Completed"
+4,4,"Debit Card",49.99,2024-04-02,"Completed"
+5,5,"PayPal",129.99,2024-04-03,"Completed"
+6,6,"Credit Card",179.98,2024-04-03,"Completed"
+7,7,"Debit Card",224.97,2024-04-04,"Completed"
+8,8,"Credit Card",59.99,2024-04-04,"Completed"
+9,9,"PayPal",149.98,2024-04-05,"Completed"
+10,10,"Credit Card",59.99,2024-04-05,"Completed"

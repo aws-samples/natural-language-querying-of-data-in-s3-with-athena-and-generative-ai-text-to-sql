@@ -1,0 +1,15 @@
+CREATE EXTERNAL TABLE `customers_csv_3`(
+  `CustomerID` string, 
+  `FirstName` string, 
+  `LastName` string, 
+  `Email` string, 
+  `Phone` string)
+ROW FORMAT SERDE 'org.apache.hadoop.hive.serde2.lazy.LazySimpleSerDe'
+WITH SERDEPROPERTIES (
+ 'serialization.format' = ',',
+ 'field.delim' = ','
+)
+LOCATION 's3://text-to-sql-workshop-aws/data/'
+TBLPROPERTIES ('skip.header.line.count'='1')
+  
+  

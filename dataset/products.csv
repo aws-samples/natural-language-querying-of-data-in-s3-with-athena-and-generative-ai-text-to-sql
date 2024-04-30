@@ -1,0 +1,11 @@
+ProductID,ProductName,Price,Category,Stock
+1,"Wireless Mouse",25.99,Electronics,150
+2,"Water Bottle",10.00,Home,300
+3,"Backpack",49.99,Accessories,100
+4,"Smartphone",699.99,Electronics,50
+5,"Hoodie",39.99,Apparel,200
+6,"Bookshelf",129.99,Furniture,80
+7,"Wall Art",89.99,Decor,60
+8,"Desk Lamp",24.99,Home,150
+9,"Yoga Mat",19.99,Fitness,110
+10,"Bluetooth Speaker",59.99,Electronics,90

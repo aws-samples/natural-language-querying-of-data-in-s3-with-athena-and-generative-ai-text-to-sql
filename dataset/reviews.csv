@@ -1,0 +1,11 @@
+ReviewID,ProductID,CustomerID,Rating,Comment,ReviewDate
+1,1,1,4,"Very responsive, but a bit noisy clicking.",2024-04-02
+2,4,2,5,"Excellent smartphone, fast and reliable.",2024-04-02
+3,8,3,3,"Good light, but the switch feels cheap.",2024-04-03
+4,3,4,5,"Durable and stylish, perfect for school.",2024-04-03
+5,6,5,4,"Nice finish, but required assembly.",2024-04-04
+6,7,6,2,"Looks great but arrived with a scratch.",2024-04-04
+7,10,7,5,"Great sound quality for the price.",2024-04-05
+8,5,8,4,"Comfy and warm, but pills after washing.",2024-04-05
+9,9,9,3,"Decent mat but too thin for comfort.",2024-04-06
+10,2,10,5,"Perfect size and keeps my drink cold.",2024-04-06
