@@ -20,7 +20,7 @@ This notebook illustrates how introducing generative AI can bridge the gap.
 
 Architecture flow:
 
-1. Create the AWS Glue Data Catalog using the AWS SDK or an AWS Glue crawler. (In this example, we will use the [AWS SDK for Pandas Library](https://github.com/awslabs/aws-data-wrangler)))
+1. Create the AWS Glue Data Catalog using the AWS SDK or an AWS Glue crawler. (In this example, we will use the [AWS SDK for Pandas Library](https://github.com/awslabs/aws-data-wrangler))
 
 2. Use the Titan-Text-Embeddings model on Amazon Bedrock to convert the metadata into embeddings and store them in a vector store, which serves as our knowledge base in the Retrieval Augmented Generation (RAG) framework. (In this example, we use FAISS as our vector store via Langchain. Alternatively, you can use OpenSearch for a vector database. Learn more about OpenSearch Vector Database Capabilities [here](https://aws.amazon.com/blogs/big-data/amazon-opensearch-services-vector-database-capabilities-explained/))
 
